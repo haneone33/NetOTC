@@ -602,6 +602,7 @@ function isomorphism_experiment(n_iter, longleaf)
     
     disp(connected);
     
+    %% 
     
     % 9.
     % Lollipop graph
